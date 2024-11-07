@@ -1,0 +1,12 @@
+/flask_app
+│
+├── app
+│   ├── __init__.py
+│   ├── models.py
+│   ├── routes.py
+│   ├── config.py
+│   └── database.py
+│
+├── requirements.txt
+├── Dockerfile
+└── docker-compose.yml
